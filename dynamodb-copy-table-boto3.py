@@ -1,5 +1,4 @@
 import argparse
-import time
 import boto3
 
 from progressbar import printProgressBar
